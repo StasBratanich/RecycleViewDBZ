@@ -37,8 +37,8 @@ To build and run the app locally, follow these steps:
 
 ## Acknowledgments
 
-✉️ bstasb@gmail.com
-💿 https://github.com/StasBratanich
+✉️ [bstasb@gmail.com](url)  
+💿 https://github.com/StasBratanich  
 🖥️ https://www.linkedin.com/in/stas-bratanich-computer-science/
 
 Enjoy exploring the world of Dragon Ball Z characters with the RecyclerView app!

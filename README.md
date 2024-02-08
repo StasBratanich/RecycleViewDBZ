@@ -14,8 +14,7 @@
 
 ## ℹ️ Usage
 
-1. **Scrolling:** Swipe up or down to scroll through the list of characters.
-2. **Character Details:** Tap on a character card to view more details.
+**Scrolling:** Swipe up or down to scroll through the list of characters.
 
 ## 📌 Screenshots
 

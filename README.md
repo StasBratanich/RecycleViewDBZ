@@ -26,7 +26,7 @@
 
 To build and run the app locally, follow these steps:
 
-1. **Clone the repository:** `git clone https://github.com/your-username/DBZCharacterRecyclerView.git`
+1. **Clone the repository:** `git clone https://github.com/StasBratanich/RecycleViewDBZ.git`
 2. **Open the project in Android Studio.**
 3. **Build and run the app on an Android emulator or physical device.**
 
